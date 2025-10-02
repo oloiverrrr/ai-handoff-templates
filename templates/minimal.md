@@ -1,5 +1,5 @@
 # AI开发对接文档生成模板 - 极简版 v1.0
-> 小型项目专用 | 5-10分钟快速交接 | 作者：@oloiverrrr | 2025-10-02 08:37 UTC
+> 小型项目专用 | 5-10分钟快速交接 | 无作者 | 2025-10-02 08:37 UTC
 
 ---
 
@@ -350,8 +350,8 @@ npm run dev
 
 ## 8. 联系信息
 
-**负责人**：Claude AI  
-**代码仓库**：https://github.com/user/myapp  
+
+**代码仓库**：https://github.com/oloiverrrr/ai-handoff-templates 
 **Commit**：`a1b2c3d` - fix: increase bcrypt timeout to 5s
 
-遇到问题联系：dev-team@example.com
+
